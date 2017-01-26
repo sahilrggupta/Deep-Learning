@@ -1,2 +1,2 @@
 # Deep-Learning
-The Deep Learning projects that I have undertaken
+The Deep Learning projects that I have undertaken on Kaggle
